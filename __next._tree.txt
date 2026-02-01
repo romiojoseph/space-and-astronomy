@@ -1,4 +1,4 @@
 :HL["/space-and-astronomy/_next/static/chunks/760ad3281761c9de.css","style"]
-:HL["/space-and-astronomy/_next/static/chunks/f6a5207d11b25f4e.css","style"]
+:HL["/space-and-astronomy/_next/static/chunks/db17ecd9d3395837.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Platypi:ital,wght@0,300..800;1,300..800&display=swap","style"]
-0:{"buildId":"BRrVXlU0elJ8Jq4TLbYz1","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"v_nFiPckSHjtWpKY24dS9","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
